@@ -1,0 +1,12 @@
+table{
+    background-color: rgb(0, 23, 128);
+}
+tr {
+    background-color: aqua;
+}
+table{
+    border-radius: 12px;
+    border-color: red;
+    border-style: groove;
+    border-width: 5px;
+}
